@@ -1,1 +1,1 @@
-A git branch allows you to create separate branches of code outside of your main code. This allows you to create separate code. Then in turn, you are able to commit it to the branches as a change to the main branch. This also allows you to push these changes to an online repository.
+A git branch allows you to create separate branches of code outside of your main code. here, you are able to create separate code. Then in turn, you are able to commit it to the branches as a change to the main branch. This also allows you to push these changes to an online repository.
